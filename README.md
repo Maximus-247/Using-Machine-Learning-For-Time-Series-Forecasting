@@ -3,6 +3,7 @@
 ## Overview
 
 This project explores the use of machine learning models for time series forecasting, leveraging statistical approaches to improve predictive accuracy. The goal is to compare traditional methods with advanced techniques to determine the best forecasting strategy.
+![image alt](https://github.com/Maximus-247/Using-Machine-Learning-For-Time-Series-Forecasting/blob/9940cd2518adab4f403f27870b6c091a8fd01e2d/Screenshot%202025-02-15%20182819.png)
 
 ## Problem Statement
 
